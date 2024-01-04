@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# Editors
+.vscode/
+>>>>>>> 9a56008 (feat: initialize repo)
 =======
 # Editors
 .vscode/
@@ -9,6 +14,7 @@ Thumbs.db
 # k8s
 kubeconfig
 <<<<<<< HEAD
+<<<<<<< HEAD
 .decrypted~*.yaml
 .config.env
 *.agekey
@@ -18,6 +24,10 @@ kubeconfig
 .venv*
 # Taskfile
 .tasks
+=======
+# sops
+.decrypted~*.yaml
+>>>>>>> 9a56008 (feat: initialize repo)
 =======
 # sops
 .decrypted~*.yaml

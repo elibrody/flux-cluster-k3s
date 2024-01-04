@@ -76,11 +76,8 @@
             mode: '0644'
             dest: /etc/resolv.conf
             content: |
-<<<<<<< HEAD
-=======
               search .
->>>>>>> 8647ce58a4d0895a73198f19d377132d0763b2da
-              nameserver 10.10.11.5
+              nameserver 1.1.1.1
 
     - name: System Configuration
       notify: Reboot

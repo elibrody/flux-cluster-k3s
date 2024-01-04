@@ -644,13 +644,6 @@ Bootstrap your nodes with k3s using k3sup
 
 ## :handshake:&nbsp; Thanks
 
-<<<<<<< HEAD
-A lot of inspiration for my cluster came from the people that have shared their clusters over at [awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes)
->>>>>>> 9a56008 (feat: initialize repo)
 =======
 # home-cluster-k3s
 Template for creating a k3s cluster with k3sup, flux and sops
->>>>>>> cc48dae (Initial commit)
-=======
-A lot of inspiration for my cluster came from the people that have shared their clusters over at [awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes)
->>>>>>> 9a56008 (feat: initialize repo)

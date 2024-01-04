@@ -644,6 +644,5 @@ Bootstrap your nodes with k3s using k3sup
 
 ## :handshake:&nbsp; Thanks
 
-=======
 # home-cluster-k3s
 Template for creating a k3s cluster with k3sup, flux and sops
